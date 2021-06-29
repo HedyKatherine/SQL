@@ -22,7 +22,7 @@ Dans la table frameworks, renommer la colonne name en framework.
 
 ## exercice 6
 
-Ajouter à la table frameworks changer le type de la colonne version en VARCHAR de taille 10.
+à la table frameworks changer le type de la colonne version en VARCHAR de taille 10.
 
 
 
