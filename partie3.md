@@ -24,5 +24,11 @@ Dans la table frameworks, renommer la colonne name en framework.
 
 à la table frameworks changer le type de la colonne version en VARCHAR de taille 10.
 
+## Bonus
 
+Dans la base codex, dans la table clients et en une seule requête :
+
+-supprimer la colonne phoneNumber
+-renommer la colonne mail par mails
+--ajouter les colonnes zipCode(VARCHAR) et city(VARCHAR)
 
