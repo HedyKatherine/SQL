@@ -35,4 +35,4 @@ Dans la base de données webDevelopment, créer la table ide avec les colonnes s
 Dans la base de données webDevelopment, créer, si elle n'existe pas, la table frameworks avec les colonnes suivantes :
     --id (type INT, auto-incrémenté, clé primaire)
     --name (type VARCHAR)
---création de la table 'frameworks' SI ELLE N'EXISTE PAS !
+
